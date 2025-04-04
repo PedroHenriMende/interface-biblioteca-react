@@ -8,8 +8,8 @@
     justify-content: space-between;
     align-items: center;
 }
-
-.cabecalho img {
+.imgLogo,
+.imgLogo img{
     height: 100%;
 }
 
